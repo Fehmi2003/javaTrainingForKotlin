@@ -10,6 +10,7 @@ public class arrayList {
         cars.add("Ford");
         cars.add("Mazda");
         cars.add("Porshe");
+        cars.add("Porshe");
         System.out.println(cars);
     }
 }
